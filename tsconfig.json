@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"declaration": false,
+		"module": "CommonJS",
+		"target": "es5",
+		"noImplicitAny": false,
+		"experimentalDecorators": true
+	},
+	"files": [
+		"app.ts"
+	]
+}

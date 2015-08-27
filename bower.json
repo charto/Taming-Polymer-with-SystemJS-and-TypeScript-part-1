@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "charto-polymer-shim": "https://github.com/charto/charto-polymer-shim.git#~0.0.1",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.3",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.5",
+    "polymer": "~1.1.1",
+    "polymer-ts": "~0.1.14",
+    "system.js": "~0.18.17",
+    "systemjs-plugin-html": "https://github.com/Hypercubed/systemjs-plugin-html.git#~0.0.6"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bower": "bower",
+    "tsc": "tsc",
+    "install": "bower install && tsc",
+    "start": "node serve.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.5.2"
+  },
+  "devDependencies": {
+    "express": "^4.13.3",
+    "typescript": "^1.5.3"
+  }
+}
