@@ -16,6 +16,7 @@
     "polymer": "~1.1.1",
     "polymer-ts": "~0.1.14",
     "system.js": "~0.18.17",
-    "systemjs-plugin-html": "https://github.com/Hypercubed/systemjs-plugin-html.git#0.0.6"
+    "systemjs-plugin-html": "https://github.com/Hypercubed/systemjs-plugin-html.git#~0.0.8",
+    "webcomponentsjs": "^0.7.22"
   }
 }
