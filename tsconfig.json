@@ -1,7 +1,7 @@
 {
 	"compilerOptions": {
 		"declaration": false,
-		"module": "CommonJS",
+		"module": "system",
 		"target": "es5",
 		"noImplicitAny": false,
 		"experimentalDecorators": true
